@@ -1,7 +1,7 @@
 # MS-HTC
 ## Suggested setup
 - The demo scripts were tested on Matlab 2016b (installed on Windows 10). The demo scripts cannot run correctly on Matlab Online/Matlab for Linux/Matlab for Mac.
-- Functions in ESPIRiT toolbox is required, please download ESPIRiT toolbox from https://people.eecs.berkeley.edu/~mlustig/software/SPIRiT_v0.3.tar.gz, and unzip it under .\tools\
+- Functions in ESPIRiT toolbox are required, please download ESPIRiT toolbox from https://people.eecs.berkeley.edu/~mlustig/software/SPIRiT_v0.3.tar.gz, and unzip it under .\tools\
 
 ## Demo and sample data
 - Two matlab demo scripts are provided for MS-HTC reconstruction.

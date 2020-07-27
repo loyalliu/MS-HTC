@@ -11,6 +11,7 @@
 - Two sets of sample data are available.
   + T2w_SE_Spiral.mat: 4-slice 8-channel fully sampled spiral data
   + T1w_SE.mat: 4-slice 8-channel fully sampled T1w data. mask_3x_vd0_1D_N360.mat contains the sampling mask at R = 3.
+- The reconstruction results will be saved under .\tmp\
 
 ## Reference
 Liu, Y., et al., Calibrationless Parallel Imaging Reconstruction for Multi-slice MR Data using Low-Rank Tensor Completion. Magn Reson Med. Accepted.

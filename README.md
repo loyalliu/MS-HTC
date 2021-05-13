@@ -14,4 +14,4 @@
 - The reconstruction results will be saved under .\tmp\
 
 ## Reference
-Liu, Y., et al., Calibrationless Parallel Imaging Reconstruction for Multi-slice MR Data using Low-Rank Tensor Completion. Magn Reson Med. Accepted.
+Liu, Yilong, et al. "Calibrationless parallel imaging reconstruction for multislice MR data using low‐rank tensor completion." Magnetic Resonance in Medicine 85.2 (2021): 897-911.
